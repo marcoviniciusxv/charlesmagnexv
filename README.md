@@ -2,7 +2,6 @@
 
 
 
-- 🔭 Hoje trabalho com back-end usando a tecnologia Node.js
 - 🌱 Estudando Java e React.js
 - 💬 Disponível para ajudar no desenvolvimento de APIs com Node.js
 - 📫 Entre em contato no e-mail: marvibelmont@gmail.com

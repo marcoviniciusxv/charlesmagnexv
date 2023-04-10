@@ -3,7 +3,7 @@
 
 
 - 🌱 Estudando Java e React.js
-- ⚡ Atualmente trabalho como front-end, usando React JS e TypeScript
+- ⚡ Atualmente trabalho como front-end, usando React.js e TypeScript
 - 💬 Disponível para ajudar no desenvolvimento de APIs com Node.js
 - 📫 Entre em contato no e-mail: marvibelmont@gmail.com
 

@@ -3,9 +3,9 @@
 
 
 - 🌱 Estudando Java e React.js
+- ⚡ Atualmente trabalho como front-end, usando ReactJs e TypeScript
 - 💬 Disponível para ajudar no desenvolvimento de APIs com Node.js
 - 📫 Entre em contato no e-mail: marvibelmont@gmail.com
-- ⚡ Curiosidade: sou lutador de Hapkido, Taekwondo, Vale-Tudo e MMA 🥋
 
 <div align="center">
   <a href="https://github.com/charlesmagnexv">
